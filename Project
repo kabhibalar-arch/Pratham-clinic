@@ -1,0 +1,13 @@
+Pratham-clinic/
+│── index.html
+│── about.html
+│── treatments.html
+│── gallery.html
+│── contact.html
+│── appointment.html
+│── style.css
+│── script.js
+│── images/
+│     ├── doctor.jpg
+│     ├── clinic1.jpg
+│     └── clinic2.jpg
